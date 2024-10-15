@@ -1,0 +1,73 @@
+/* body{
+    background-color: #c57fff;
+} */
+ .marginal{
+    width: 86%;
+    max-width: 1500px;
+    margin: auto;
+    padding: 5% 0;
+ }
+ .custom-dots {
+    bottom: -40px !important;
+    /* Adjust the position */
+}
+.custom-dot {
+    margin-bottom: 5px;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    background-color: #d3ecc3;
+    /* background-color: #dee4eb; */
+    /* from-[#114380] to-[#11817a] */
+    /* background: #898989; */
+    /* Customize the color */
+    border-radius: 50%;
+    border: none;
+    display: flex;
+    padding: 2%;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: white;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.custom-dot-inner {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+
+    background-color: transparent;
+    transition: transform 0.3s ease;
+
+}
+
+.custom-dot:hover {
+    transform: scale(1.2);
+    /* Add hover effect */
+}
+
+.slick-active .custom-dot-inner {
+    background-color: #2366ab;
+}
+.menu-link {
+    position: relative;
+    padding-bottom: 5px; /* Add some space for the bottom border animation */
+  }
+  
+  .menu-link::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #1d4ed8; /* Customize the color of the border here */
+    transition: width 0.3s ease;
+  }
+  
+  .menu-link:hover::before {
+    width: 100%;
+  }
+  
