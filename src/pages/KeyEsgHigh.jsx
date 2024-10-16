@@ -8,7 +8,6 @@ const KeyEsgHigh = () => {
         <img src="./other/key1.jpg" className='md:w-[50%]' alt="" />
         <img src="./other/key2.jpg" className='md:w-[50%]' alt="" />
       </div>
-      <ChairmanMsg />
     </div>
   )
 }
