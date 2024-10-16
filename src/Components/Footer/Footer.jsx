@@ -14,7 +14,7 @@ const Footer = () => {
                 <div className="footer-info second-column w-fit m-auto">
                     <h2 className="footer-business-name">© Vedanta Limited</h2>
                     <p className="footer-business-address text-white">
-                    Annual Report 2023-24
+                    Sustainability Report 2023-24
                     </p>
                 </div>
                 {/* Navigation and Info Column */}
