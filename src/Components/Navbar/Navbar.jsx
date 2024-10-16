@@ -58,7 +58,7 @@ const navListMenuItems = [
     title: "ESG Scorecard",
     description: "",
     icon: ArrowTopRightOnSquareIcon,
-    link: "./docs/ESG Scorecard.pdf"
+    link: "./docs/Vedanta ESG Scorecard.pdf"
   },
   {
     title: "Human Capital Development",
@@ -76,25 +76,25 @@ const navListMenuItems = [
     title: "ESG Factsheet",
     description: "",
     icon: ArrowTopRightOnSquareIcon,
-    link: "/esg-factsheet"
+    link: "./docs/Vedanta Factsheet.pdf"
   },
   {
     title: "GRI Content Index",
     description: "",
     icon: ArrowTopRightOnSquareIcon,
-    link: "/gri-content-index"
+    link: "./docs/Vedanta GRI Index.pdf"
   },
   {
     title: "UNGC Index",
     description: "",
     icon: ArrowTopRightOnSquareIcon,
-    link: "/ungc-index"
+    link: "./docs/Vedanta UNGC Index.pdf"
   },
   {
     title: "Acronym",
     description: "",
     icon: ArrowTopRightOnSquareIcon,
-    link: "/acronym"
+    link: "./docs/Vedanta Appenddix.pdf"
   },
 ];
 
@@ -104,7 +104,7 @@ function NavListMenu() {
   const renderItems = navListMenuItems.map(
     ({ icon, title, description, link }, key) => {
       const isPdf = link.includes('.pdf'); // Check if the link contains '.pdf'
-      
+
       return isPdf ? (
         <Link to={link} key={key} target="_blank" rel="noopener noreferrer">
           <MenuItem className="flex items-center gap-3 rounded-lg">
@@ -160,7 +160,7 @@ function NavListMenu() {
       );
     }
   );
-  
+
 
   return (
     <React.Fragment>
@@ -221,15 +221,17 @@ function NavList() {
       </Typography>
       <NavListMenu />
       <Typography
-        as="a"
-        href="#"
+        // as="a"
+        // href="#"
         variant="small"
         color="blue-gray"
         className="font-medium"
       >
+        <Link to="./docs/Vedanta Sustainability Report.pdf" target="_blank">
         <ListItem className="flex items-center bg-blue-gray-50 font-semibold w-fit gap-2 py-2 pr-4">
           Download Full Report <span className="w-[25px]"><DocumentArrowDownIcon /></span>
         </ListItem>
+        </Link>
       </Typography>
     </List>
   );

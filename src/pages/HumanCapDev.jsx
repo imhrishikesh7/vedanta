@@ -280,10 +280,10 @@ const HumanCapDev = () => {
             </p>
             <p className='mb-2 mt-4 text-xl font-semibold text-[#44b9b6]'>Satisfaction Survey </p>
             <p className='mb-2'>
-            In FY 2024, Vedanta conducted the HWA Employee Satisfaction Survey to gain deeper insights into employee expectations and work-related experiences. This survey, based on 
-            a comprehensive questionnaire, assessed various aspects, including the Happiness Index, Professional Index, Manager Index, and Senior Leader (Intent) Index. The survey was conducted anonymously, ensuring that employees could provide honest feedback. The insights gathered from this survey will be instrumental in fostering a more conducive and rewarding work environment.
+                In FY 2024, Vedanta conducted the HWA Employee Satisfaction Survey to gain deeper insights into employee expectations and work-related experiences. This survey, based on
+                a comprehensive questionnaire, assessed various aspects, including the Happiness Index, Professional Index, Manager Index, and Senior Leader (Intent) Index. The survey was conducted anonymously, ensuring that employees could provide honest feedback. The insights gathered from this survey will be instrumental in fostering a more conducive and rewarding work environment.
             </p>
-            <div className='md:flex md:items-center md:justify-center'>
+            <div className='md:flex md:items-center md:justify-center my-4'>
                 <div className='md:w-[32%]'>
                     <img src="./other/hcd6.jpg" alt="" />
                 </div>
@@ -295,10 +295,154 @@ const HumanCapDev = () => {
                 </div>
             </div>
 
-            <p className='mb-2 mt-4 text-xl font-semibold'>Employee Well-Being and Overall 
-            Engagement </p>
-            <p className='mb-2 mt-4 text-xl font-semibold'>Our Approach Towards Ensuring 
-            Employee Well-Being</p>
+            <p className='mb-2 mt-4 text-xl font-semibold'>Employee Well-Being and Overall
+                Engagement </p>
+            <p className='mb-2 mt-4 text-xl font-semibold text-[#0066ab]'>Our Approach Towards Ensuring
+                Employee Well-Being</p>
+            <p className='mb-2'>
+                At Vedanta, we recognize that employee well-being is not just a concern, but a strategic imperative. We believe that a healthy, engaged, and motivated workforce is the foundation for sustainable success. Vedanta recognizes that employee well-
+                being directly impacts individual and organizational performance. Therefore, we prioritize comprehensive employee support programs that address physical, mental, and emotional health.
+            </p>
+            <p className='mb-2'>
+                Vedanta has devised programs that are designed to foster employee engagement, reduce turnover rates, and ultimately boost productivity.
+                By investing in employee well-being, Vedanta demonstrates its commitment to creating a work environment where employees feel valued, supported, and empowered to thrive. This not only benefits individual employees but also contributes to the overall success and sustainability of the company.
+            </p>
+            <p className='mb-2 mt-4 text-xl font-semibold text-[#0066ab]'>Key Pillars of Employee Well-Being</p>
+            <div className='md:flex md:items-center md:justify-center'>
+                <div className='md:w-[49%]'>
+                    <img src="./other/hcd9.jpg" alt="" />
+                </div>
+                <div className='md:w-[49%]'>
+                    <img src="./other/hcd10.jpg" alt="" />
+                </div>
+            </div>
+
+            <p className='mb-2 mt-4 text-xl font-semibold text-[#0066ab]'>Critical Initiatives Towards Employee Well-Being & Engagement</p>
+            <ul className=''>
+                <li className='mb-2 flex items-start'>
+                    <img src='./home/leaf2.svg' className='mr-2 w-4 h-4' alt='bullet' />
+                    The MKM Football Tournament hosted by Hindustan Zinc,
+                    one of the biggest State Youth competitions successfully concluded its 44th edition at Zawar‘s MKM Stadium, Udaipur with Doon Star FC, Dehradun emerging victorious after a thrilling final against STFC, Kashmir. The 10-day football tournament, hosted by Hindustan Zinc in association with Zawar Mines, Mazdoor Sangh, witnessed magnificent performances from 12 teams
+                    that participated from across
+                    the country in #ZincCity. This
+                    year ‘ s tournament witnessed
+                    an overwhelming participation
+                    of more than 25,000 spectators, demonstrating the enduring popularity of the MKM Football Tournament within #ZincCity
+                </li>
+                <li className='mb-2 flex items-start'>
+                    <img src='./home/leaf2.svg' className='mr-2 w-4 h-4' alt='bullet' />
+                    During the second editions of
+                    both the Delhi Half Marathon
+                    and the Pink City Half Marathon organized by Vedanta, over 50,000 individuals participated in support of the “Zero Hunger” cause. With enthusiastic participation from both international and domestic runners, Vedanta successfully pledged 5 million meals towards fostering a healthy and nourished India.
+                </li>
+                <li className='mb-2 flex items-start'>
+                    <img src='./home/leaf2.svg' className='mr-2 w-4 h-4' alt='bullet' />
+                    Hindustan Zinc, in collaboration with Silver Oak, organized on-site sessions for Zinc Parivar across units. These sessions revolved around the theme of wellbeing and mindfulness. Some of the activities that were conducted included group discussions on work-life balance, movement therapy, stress busters, learning about the different types of stress, and lastly, what all is offered under the EWAP services for our Zinc Parivar TSPL hosted a comprehensive training session titled healthy heart habits aimed at equipping all employees and business partners with essential knowledge and skills to prevent cardiac arrest and promote heart health led by leading healthcare professionals and experts in cardiology.
+                </li>
+            </ul>
+
+            <div className='p-4 rounded-2xl md:flex md:justify-between my-4 bg-[#f4f1ef]'>
+                <div className='w-[59%]'>
+                    <p className='mb-2 text-xl font-semibold text-[#0066ab]'>Empowering Conversations:
+                        Menstrual Hygiene Training at TSPL</p>
+                    <p className='text-[#0066ab]'>
+                        TSPL conducted a Menstrual Hygiene Training for employees, business partners, and sub-business partners. The session fostered open dialogue and comfort, enabling insightful discussions. Women employees gained valuable knowledge, debunked myths, and embraced a supportive environment.
+                        The resounding success of this training underscores our dedication to promoting inclusivity, well-being, and empowerment within our community. By fostering a culture of openness and education, we are not only enhancing individual health and confidence but also nurturing a more supportive and understanding workplace environment
+                    </p>
+                </div>
+                <div className='w-[39%]'>
+                    <img src="./other/hcd11.png" className='rounded-2xl' alt="" />
+                </div>
+
+            </div>
+            <p className='mb-2 text-xl font-semibold text-[#0066ab]'>Employee Support Programmes</p>
+            <div className='md:w-[24%] my-4'>
+                <div className='my-4 relative pb-2 '>
+                    <h1 className='text-[#72bf44] font-semibold text-3xl'>₹ 33 billion</h1>
+                    <p className='text-xl'>
+                        Employee Benefits
+                    </p>
+                    <div className="absolute bottom-0 left-0 w-[300px] h-[3px] border-b-2 border-[#72bf44]">
+                        <span className="absolute bottom-[-3px] left-0 w-[40px] border-b-4 border-[#0066ab]"></span>
+                    </div>
+                </div>
+            </div>
+            <div className='md:flex md:justify-between md:items-center'>
+                <div className='md:w-[59%]'>
+                    <p className='mb-2 text-xl font-semibold text-[#f47522]'>Workplace flexibility: </p>
+                    <p className='mb-2'>
+                        Following the Covid-19 pandemic, our company swiftly adapted its workplace strategies to prioritize the well-being of our workforce. This included implementing health screenings, social distancing protocols, and widespread remote work across all our locations. As Vedanta operates in the manufacturing sector where on-site presence is crucial, we recognized the need to adjust these practices post- Covid-19 while continuing to prioritize employee health.
+                    </p>
+                    <p className='mb-2'>
+                        Presently, we have phased out the extensive remote work initiative. However, we remain committed
+                        to workplace flexibility. We have introduced a policy that allows employees the opportunity to
+                        work from home under specific circumstances, subject to mutual agreement with their managers.
+                        This approach ensures that we maintain operational efficiency while safeguarding the health and well-being of our staff.
+                    </p>
+                    <p className='mb-2 text-xl font-semibold text-[#f47522]'>Work Integrated Learning Programme </p>
+                    <p className='mb-2'>
+                        To ensure a continual infusion of adept knowledge, skills, and attitudes, Vedanta focuses on enhancing employees’ competencies, aligning with both current needs and future business demands through robust talent development programs. These initiatives include various interventions aimed at retaining talent.
+                    </p>
+
+                </div>
+                <div className='md:w-[39%]'>
+                    <img src="./other/hcd12.png" className='rounded-2xl mb-2' alt="" />
+                </div>
+            </div>
+            <p className='mb-2'>
+                Among Vedanta’s Group-Wide Talent Development Initiatives is the Vedanta Leadership Development Program (VLDP). Launched in 2017, VLDP is a meticulously structured pathway for early-career professionals, recruiting top talent from premier B-Schools
+                and Engineering Campuses across India. VLDP prepares participants
+                for leadership roles within Vedanta, facilitating accelerated career growth with opportunities for lateral movement across Business Units and potential advancement to CXO positions
+                within 8-10 years. The program also emphasizes mentorship from senior leaders, cross-functional learning, and personalized career progression pathways, benefiting over 150 current VLDP members.
+            </p>
+            <p className='mb-2'>
+                In addition to these overarching initiatives, individual Business Units within Vedanta develop their own career development Initiatives tailored to specific talent pools. For instance, the “Star of the Business” program identifies high-potential employees from enabling and technical functions, culminating in personalized career development plans each year. This dual approach ensures that Vedanta not only attracts top talent but also nurtures and retains them through comprehensive career growth opportunities and support frameworks.
+            </p>
+            <p className='mb-2 text-xl font-semibold text-[#f47522]'>Lactation and creche facilities </p>
+            <p className='mb-2'>
+                Our Business Units provide childcare services, such as creche facilities, for Vedanta staff and Business Partners. For example: Cairn has partnered
+                with a prominent day-care-chain and this collaboration guarantees creche services for all female employees across the Delhi-NCR region.
+            </p>
+            <p className='mb-2'>
+                Some other employee wellbeing initiatives include:
+            </p>
+            <ul className=''>
+                <li className='mb-2 flex items-start'>
+                    <img src='./home/leaf2.svg' className='mr-2 w-4 h-4' alt='bullet' />
+                    We offer annual health check-up that encompass a wide range of health assessments.
+                </li>
+                <li className='mb-2 flex items-start'>
+                    <img src='./home/leaf2.svg' className='mr-2 w-4 h-4' alt='bullet' />
+                    Employees are reimbursed for well- being packages they use.
+                </li>
+                <li className='mb-2 flex items-start'>
+                    <img src='./home/leaf2.svg' className='mr-2 w-4 h-4' alt='bullet' />
+                    Our company sponsors multi- course meals at our facilities, thoughtfully crafted to accommodate diverse dietary preferences and ensure balanced nutrition.
+                </li>
+            </ul>
+            <p className='mb-2'>
+                We promote employee fitness through sports and fitness facilities at all
+                our locations. We regularly organize tournaments and events to build camaraderie and encourage an active lifestyle among employees.
+            </p>
+            <div className='md:flex md:justify-center'>
+                <div className='md:w-[49%]'>
+                    <p className='mb-2 text-xl font-semibold text-[#0066ab]'>Critical Initiatives Towards Employee Development & Wellbeing</p>
+                    <ul className=''>
+                        <li className='mb-2 flex items-start'>
+                            <img src='./home/leaf2.svg' className='mr-2 w-4 h-4' alt='bullet' />
+                            Progressive Parenthood Policies beyond maternity benefits extending for single parents and LGBTQIA+ employees.
+                        </li>
+                        <li className='mb-2 flex items-start'>
+                            <img src='./home/leaf2.svg' className='mr-2 w-4 h-4' alt='bullet' />
+                            MentiCulous initiative by Fujairah Gold fosters personal and professional growth through personalized mentoring, unleashing untapped
+                            potential and promoting skill development. The session started with an inspiring video on effective mentorship, followed by a successful Tower Building team exercise, marking the beginning of an exciting initiative.
+                        </li>
+                    </ul>
+                </div>
+                <div className='md:w-[49%]'>
+                    <img src="./other/hcd13.png" className='rounded-2xl mb-2' alt="" />
+                </div>
+            </div>
         </div>
     )
 }

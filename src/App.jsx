@@ -18,6 +18,7 @@ import SustainableGov from './pages/SustainableGov';
 import SustainabilityStrategy from './pages/SustainabilityStrategy';
 import OurStakeholders from './pages/OurStakeholders';
 import HumanCapDev from './pages/HumanCapDev';
+import SupplyChain from './pages/SupplyChain';
 function App() {
 
   return (
@@ -41,6 +42,7 @@ function App() {
         <Route path="/sustainable-governance" element={<SustainableGov/>} />
         <Route path="/our-stakeholders" element={<OurStakeholders/>} />
         <Route path="/human-capital-development" element={<HumanCapDev/>} />
+        <Route path="/supply-chain-management" element={<SupplyChain/>} />
       </Routes>
       <Footer />
       </BrowserRouter>
