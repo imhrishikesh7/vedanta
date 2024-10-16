@@ -2,6 +2,7 @@ import React from 'react'
 import "slick-carousel/slick/slick.css";
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick-theme.css";
+import CustomLink from '../CustomLink/CustomLink';
 const Messages = () => {
     const settings = {
         dots: true,
@@ -34,12 +35,15 @@ const Messages = () => {
             <Slider {...settings} className="space-x-2">
                 <div className='m-auto'>
                     <img src="./home/Group 3.png" className='m-auto' alt="" />
+                    <CustomLink ctaLink='/chairman-message'/>
                 </div>
                 <div className='m-auto'>
                     <img src="./home/Group 5.png" className='m-auto' alt="" />
+                    <CustomLink ctaLink='/non-exe-dir-message'/>
                 </div>
                 <div className='m-auto'>
                     <img src="./home/Group 4.png" className='m-auto' alt="" />
+                    <CustomLink ctaLink='/exe-dir-message'/>
                 </div>
             </Slider>
         </div>

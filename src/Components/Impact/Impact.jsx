@@ -1,5 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
+import CustomLink from '../CustomLink/CustomLink'
 const Impact = () => {
     return (
         <div className='marginal'>
@@ -54,6 +55,7 @@ const Impact = () => {
                     <img src="./home/lsi.png" className='w-[90%] md:right-0 md:top-[50%] md:translate-y-[-50%] md:absolute' alt="" />
                 </motion.div>
             </div>
+                <CustomLink ctaLink="/impact-we-are-creating"/>
         </div >
     )
 }

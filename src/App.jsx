@@ -19,11 +19,13 @@ import SustainabilityStrategy from './pages/SustainabilityStrategy';
 import OurStakeholders from './pages/OurStakeholders';
 import HumanCapDev from './pages/HumanCapDev';
 import SupplyChain from './pages/SupplyChain';
+import ScrollToTop from './Components/ScrollToTop';
 function App() {
 
   return (
     <div>
       <BrowserRouter>
+      <ScrollToTop/>
       <MegaMenuWithHover />
       <Routes>
         <Route path="/" element={<Home />} />

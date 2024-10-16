@@ -11,6 +11,7 @@ import {
     Button,
 } from "@material-tailwind/react";
 import React from 'react';
+import CustomLink from "../CustomLink/CustomLink";
 
 export function EcommerceCard() {
     const data = [
@@ -116,18 +117,19 @@ export function EcommerceCard() {
                                     </Typography>
                                 </CardBody>
                                 <CardFooter className="pt-0">
-                                    <Button
+                                    {/* <Button
                                         ripple={false}
                                         fullWidth={true}
                                         className="bg-blue-gray-900/10 text-blue-gray-900 shadow-none hover:scale-105 hover:shadow-none focus:scale-105 focus:shadow-none active:scale-100"
                                     >
                                         Explore
-                                    </Button>
+                                    </Button> */}
                                 </CardFooter>
                             </Card>
                         </motion.div>
                     ))}
                 </Slider>
+                <CustomLink ctaLink='/our-production-portfolio'/>
             </motion.div>
         </div>
     );
