@@ -120,7 +120,9 @@ const ChairmanMsg = () => {
       </p>
       <p className='text-[#0066ab] font-[500] text-2xl my-4'>
         <img src="./other/q1.svg" className='inline-block mt-[-1%] mr-2 w-[35px]' alt="" />
-        As we pass through the transition phase, we are focusing on consolidating and strengthening our asset base to emerge as world leaders in each of our verticals. Our entry into adjacent, high-growth businesses is similarly inspired.
+        Today, through our Nand Ghar, and other CSR initiatives, the lives of more than 
+13.3 million women and children have been changed – with better access to basic healthcare, education, sanitation and hygiene, and the creation 
+of employment opportunities.
         <img src="./other/q2.svg" className='inline-block mb-[-1%] ml-2 w-[27px]' alt="" />
       </p>
       <p className='mb-2'>

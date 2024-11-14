@@ -83,7 +83,7 @@ const ExeDirMsg = () => {
             </p>
             <p className='mb-2'>
                 This year we launched our integrated sutainability management portal Enablon that allows us to monitor
-                data from all operating sites and to proactively identify potential threats and risk incidents. Initially rolled out for the Health, Safety and Environment functions, the portal already connects more than 63,000 users, with more than 80,000 action plans deployed and over 300,000 observations recorded. The software is expected to bring a sea change to the way we operate, with its capabilities for data analysis, automated follow-ups and alerts transparency.                  for task managem
+                data from all operating sites and to proactively identify potential threats and risk incidents. Initially rolled out for the Health, Safety and Environment functions, the portal already connects more than 63,000 users, with more than 80,000 action plans deployed and over 300,000 observations recorded. The software is expected to bring a sea change to the way we operate, with its capabilities for data analysis, automated follow-ups and alerts for task management and overall transparency.
             </p>
             <p className='text-[#72bf44] font-semibold text-2xl my-4'>
                 Pathbreaking gender affirmation policy expands our DEI scope

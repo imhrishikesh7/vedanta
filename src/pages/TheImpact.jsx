@@ -37,7 +37,7 @@ const TheImpact = () => {
                     <img src="./home/lsi.png" className='w-[80%] md:right-0 md:top-[50%] md:translate-y-[-50%] md:absolute' alt="" />
                 </motion.div>
             </div>
-            <p className='text-orange-500 font-semibold text-xl mb-2'>We envision Vedanta to be able to</p>
+            <p className='text-orange-500 font-semibold text-xl mb-2'>Leading by practice</p>
             <div className='bg-[#e6e3e3] p-4 w-fit rounded-xl mb-5'>
                 <p className='text text-[#114380] border-b border-[#114380] py-4'>
                     <span className='px-2 py-1 text-white bg-[#72bf44] rounded-full mr-2'>1</span>
@@ -53,7 +53,7 @@ const TheImpact = () => {
                 </p>
             </div>
             <p className='mb-2'>
-                ‘India’s growth will showcase emerging leaders, and Vedanta aims to be one of them.
+                India’s growth will showcase emerging leaders, and Vedanta aims to be one of them.
             </p>
             <p className='mb-2'>
                 India, on its way to becoming a US
@@ -61,7 +61,7 @@ const TheImpact = () => {
                 of the world. To do this, India needs
                 to grow economically while keeping carbon emissions low and preserving the environment. India’s Net-Zero by 2070 commitment acts on that need.
             </p>
-            <p className='text-[#72bf44] font-semibold text-2xl my-3'>We envision Vedanta to be able to</p>
+            <p className='text-[#72bf44] font-semibold text-2xl my-3'>Leading by practice</p>
             <p className='mb-2'>
                 Vedanta as one of the world’s leading natural resources producers with majority operations in India, subscribes to and owns this commitment. Our resolve to be a responsible producer has made us early adopters of low waste, low emissions processes. India’s Net-Zero pathway will have three key drivers – extensive transitioning from thermal power to renewables leading to reduced GHG emissions; improved waste recycling, particularly through recovery and recycling of metals; and natural climate solutions for greater carbon sequestration by way of
                 land reclamation and afforestation. Vedanta’s journey towards climate- neutral growth mirrors these priorities.
